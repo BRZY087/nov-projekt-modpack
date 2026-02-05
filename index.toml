@@ -235,6 +235,10 @@ hash = "0e66841d986f960b37820129ca73b60b3c7f873d147ff64485ffa5bd12213fe9"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "8dfa01382b1e738fd9ee7ce8ddcbe20fa25c4b587294924bbd51d79659ef02cd"
+
+[[files]]
 file = "packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
