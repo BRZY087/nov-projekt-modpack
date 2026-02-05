@@ -111,11 +111,6 @@ hash = "210a2ac7359605a83b8601e29fb8a16ea15420db1b2f70ae068941d12daf9f50"
 metafile = true
 
 [[files]]
-file = "mods/create-trainutilities.pw.toml"
-hash = "eb8cd05982d086bf71c338057819a848e9b51ffdd3e1e2acd8ebbd282aa46b07"
-metafile = true
-
-[[files]]
 file = "mods/create_radar-0.1.1+1.20.1.jar"
 hash = "b17bd8343cc6fcbb3237ba1daccd550fb3b1e502d4a1cf8c38bdbf89cf45a462"
 
