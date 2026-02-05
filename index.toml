@@ -234,13 +234,5 @@ file = "options.txt"
 hash = "8dfa01382b1e738fd9ee7ce8ddcbe20fa25c4b587294924bbd51d79659ef02cd"
 
 [[files]]
-file = "packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
-file = "packwiz-installer.jar"
-hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
-
-[[files]]
 file = "resourcepacks/skt-bcg var4 v1.1.zip"
 hash = "b94b5a5e92d311dc3b3cca05f286a5d2da73b992a89580ecec0b83dc41cbbe9a"
