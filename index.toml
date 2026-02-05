@@ -200,6 +200,10 @@ hash = "356a264757b1b5d0eda01c8c09ec7dd40062e93003d1e5ee027d3215eef2e0ce"
 metafile = true
 
 [[files]]
+file = "mods/trainutilities-fabric-3.0.0.jar"
+hash = "663692151c38e829337c9fcc6d4b69d9950c66b52ccb45e7129081769b85cfb2"
+
+[[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "a1bc649de54508cd4d5f47339eb3c499f9d700d0526b8294ca102dbcbe75da8e"
 metafile = true
