@@ -1,0 +1,13 @@
+name = "wittův modpack"
+author = "brzykovec"
+version = "1.20.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "18028f0b7a67e1a32fa099cae1f89e1a6a508c3a044e090c514a6d5020267302"
+
+[versions]
+fabric = "0.16.13"
+minecraft = "1.20.1"
