@@ -1,0 +1,13 @@
+name = "Create: Extended Bogeys (Borked) (Deprecated)"
+filename = "extendedbogeys-0.5.16-1.20.1-0.5.1.f-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d92a988294ad501f8082b8eea7e752de31e9ecb5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6775350
+project-id = 1307964

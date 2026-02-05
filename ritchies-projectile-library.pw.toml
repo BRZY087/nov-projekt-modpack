@@ -1,0 +1,13 @@
+name = "Ritchie's Projectile Library"
+filename = "ritchiesprojectilelib-2.1.0+mc.1.20.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d698f4f733ae76e453195016517be33e6cfc93b5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6610611
+project-id = 1279407

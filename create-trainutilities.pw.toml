@@ -1,0 +1,13 @@
+name = "Create Train Utilities"
+filename = "trainutilities-fabric-2.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aa3d7ed14d5319573d26fd89642534ba7c142526"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5580463
+project-id = 1028420
